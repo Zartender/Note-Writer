@@ -3,6 +3,7 @@ let noteText;
 let saveNoteBtn;
 let newNoteBtn;
 let noteList;
+// declaring objects
 
 if (window.location.pathname === '/notes') {
   noteTitle = document.querySelector('.note-title');
@@ -10,12 +11,16 @@ if (window.location.pathname === '/notes') {
   saveNoteBtn = document.querySelector('.save-note');
   newNoteBtn = document.querySelector('.new-note');
   noteList = document.querySelectorAll('.list-container .list-group');
+  // assigning values to objects on lines 1-6
 }
+
 
 // Show an element
 const show = (elem) => {
   elem.style.display = 'inline';
+  // via css, styloing elements inline.
 };
+
 
 // Hide an element
 const hide = (elem) => {
