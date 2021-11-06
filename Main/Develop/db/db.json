@@ -12,5 +12,20 @@
         "title": "Test Note",
         "text": "TEst note",
         "id": "7b12f67a-2b7a-4fee-b992-fd45ef045ac0"
+    },
+    {
+        "title": "Note",
+        "text": "Created",
+        "id": "88356f14-6138-4a8f-a6d3-d1674723db61"
+    },
+    {
+        "title": "To-do list ",
+        "text": "Purchase:\nDrywall \nScrews\nFittings",
+        "id": "d45f42e9-7f8e-4bac-911a-587b7af32160"
+    },
+    {
+        "title": "Mickey",
+        "text": "Trim his nails and take for a walk at the park.",
+        "id": "a5e1ef59-91ec-4f6c-bf33-51dd7c5ddd04"
     }
 ]
